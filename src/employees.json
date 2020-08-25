@@ -1,0 +1,232 @@
+[
+    {
+      "id": 1,
+      "firstName": "Biff",
+      "lastName": "Tannen",
+      "image": "https://i.imgur.com/Gf8tO3D.png",
+      "role": "Developer",
+      "fullName": "Biff Tannen",
+      "phoneNumber": "408-1234567",
+      "email": "biff@biff.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/mkOK19I.png",
+      "role": "Developer",
+      "fullName": "Michael Bluth",
+      "phoneNumber": "408-1111111",
+      "email": "Michael@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Gob",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/wg9ORwI.png",
+      "role": "Magician",
+      "fullName": "Gob Bluth",
+      "phoneNumber": "408-1234567",
+      "email": "gob@gob.com"
+    },
+    {
+      "id": 4,
+      "firstName": "George",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/xgmC9lL.png",
+      "role": "Convict",
+      "fullName": "George Bluth",
+      "phoneNumber": "408-1111111",
+      "email": "George@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Maeby",
+      "lastName": "Funke",
+      "image": "https://i.imgur.com/3cPXiAk.png",
+      "role": "Student",
+      "fullName": "Maeby Funke",
+      "phoneNumber": "408-1234567",
+      "email": "maeby@maeby.com"
+    },
+    {
+      "id": 6,
+      "firstName": "George-Michael",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/PfGEGbe.png",
+      "role": "Student",
+      "fullName": "George-Michael Bluth",
+      "phoneNumber": "408-1111111",
+      "email": "GM@bluth.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Tobias",
+      "lastName": "Funke",
+      "image": "https://i.imgur.com/HFiOKNb.png",
+      "role": "Analyst/Therapist",
+      "fullName": "Tobias Funke",
+      "phoneNumber": "408-1234567",
+      "email": "Tobias@funke.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Lindsey",
+      "lastName": "Funke",
+      "image": "https://i.imgur.com/xBh2Knh.png",
+      "role": "Project Manager",
+      "fullName": "Lindsey Funke",
+      "phoneNumber": "408-1111111",
+      "email": "lindsey@funke.com"
+    },
+    {
+      "id": 9,
+      "firstName": "Lucile",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/iIEwCNO.png",
+      "role": "CEO",
+      "fullName": "Lucile Bluth",
+      "phoneNumber": "408-1234567",
+      "email": "Lucile@bluth.com"
+    },
+    {
+      "id": 10,
+      "firstName": "Oscar",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/AXTjyRm.png",
+      "role": "Custodian",
+      "fullName": "Oscar Bluth",
+      "phoneNumber": "408-1111111",
+      "email": "oscar@bluth.com"
+    },
+    {
+      "id": 11,
+      "firstName": "Incontinentia",
+      "lastName": "Buttocks",
+      "image": "https://i.imgur.com/kSqlxv6.png",
+      "role": "Centurion",
+      "fullName": "Incontinentia Buttocks",
+      "phoneNumber": "408-1234567",
+      "email": "incont@bu.com"
+    },
+    {
+      "id": 12,
+      "firstName": "Naughtious",
+      "lastName": "Maximus",
+      "image": "https://i.imgur.com/zalHwoD.png",
+      "role": "Centurion",
+      "fullName": "Naughtious Maximus",
+      "phoneNumber": "408-1111111",
+      "email": "nauty@maxo.com"
+    },
+    {
+      "id": 13,
+      "firstName": "Stan",
+      "lastName": "Sitwell",
+      "image": "https://i.imgur.com/IFqANJ3.png",
+      "role": "Developer",
+      "fullName": "Stan Sitwell",
+      "phoneNumber": "408-1234567",
+      "email": "stan@stan.com"
+    },
+    {
+      "id": 14,
+      "firstName": "Sally",
+      "lastName": "Sitwell",
+      "image": "https://i.imgur.com/114odAz.png",
+      "role": "Developer",
+      "fullName": "Sally Sitwell",
+      "phoneNumber": "408-1111111",
+      "email": "sit@well.com"
+    },
+    {
+      "id": 15,
+      "firstName": "Buster",
+      "lastName": "Bluth",
+      "image": "https://i.imgur.com/kGAhT3b.png",
+      "role": "Army Ranger",
+      "fullName": "Buster Bluth",
+      "phoneNumber": "408-2222222",
+      "email": "buster@bluth.com"
+    },
+    {
+      "id": 16,
+      "firstName": "Mitch",
+      "lastName": "Marnie",
+      "image": "https://i.imgur.com/frUiETr.png",
+      "role": "Play Maker",
+      "fullName": "Mitch Marnie",
+      "phoneNumber": "408-2222222",
+      "email": "mitch@marnie.com"
+    },
+    {
+      "id": 17,
+      "firstName": "Austy",
+      "lastName": "Matthews",
+      "image": "https://i.imgur.com/XG8BY7u.png",
+      "role": "Power Forward",
+      "fullName": "Austy Matthews",
+      "phoneNumber": "408-2222222",
+      "email": "austy@austy.com"
+    },
+    {
+      "id": 18,
+      "firstName": "Beto",
+      "lastName": "O'Rourke",
+      "image": "https://i.imgur.com/Rawqu40.png",
+      "role": "Senator",
+      "fullName": "Beto O'Rourke",
+      "phoneNumber": "408-2222222",
+      "email": "beto@beh.com"
+    },
+    {
+      "id": 19,
+      "firstName": "General",
+      "lastName": "Zod",
+      "image": "https://i.imgur.com/VAljp1c.png",
+      "role": "General of the Kryptonian Military",
+      "fullName": "General Zod",
+      "phoneNumber": "408-2222222",
+      "email": "Zod@bluth.com"
+    },
+    {
+      "id": 20,
+      "firstName": "Gumby",
+      "lastName": " ",
+      "image": "https://i.imgur.com/DQs1brt.png",
+      "role": "CFO",
+      "fullName": "Gumby",
+      "phoneNumber": "408-2222222",
+      "email": "Gumby@bluth.com"
+    },
+    {
+      "id": 21,
+      "firstName": "Kahl",
+      "lastName": "Drogo",
+      "image": "https://i.imgur.com/ASQ0rdv.png",
+      "role": "Kahl",
+      "fullName": "Kahl Drogo",
+      "phoneNumber": "408-2222222",
+      "email": "Drogo@bluth.com"
+    },
+    {
+      "id": 22,
+      "firstName": "God",
+      "lastName": "Himself",
+      "image": "https://i.imgur.com/zK4zoIL.png",
+      "role": "Intern",
+      "fullName": "God Himself",
+      "phoneNumber": "408-2222222",
+      "email": "god@bluth.com"
+    },
+    {
+      "id": 23,
+      "firstName": "This",
+      "lastName": "Horse",
+      "image": "https://i.imgur.com/etZoKzq.png",
+      "role": "Steed",
+      "fullName": "This Horse",
+      "phoneNumber": "408-2222222",
+      "email": "buster@bluth.com"
+    }
+  ]
