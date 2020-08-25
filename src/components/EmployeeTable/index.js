@@ -2,12 +2,16 @@ import React from "react";
 import "./style.css";
 import Table from "react-bootstrap/Table";
 
+//Component to render our employee table
 function EmployeeTable(props) {
   return (
+    //React/bootstrap table class
     <Table striped bordered hover variant="dark">
+      {/* Table headings */}
       <thead>
         <tr>
           <th>img</th>
+          {/* Click events to sort by employee names and roles */}
           <th onClick={props.sortName}>Name</th>
           <th onClick={props.sortRole}>Role</th>
           <th>Phone Number</th>
@@ -15,9 +19,11 @@ function EmployeeTable(props) {
         </tr>
       </thead>
       <tbody>
+        {/* Mapping our employees database over the table */}
         {props.employees.map((employee) => (
           <tr>
             <td>
+            {/* Populating the table with image, name, roll, phone number, and email */}
               <img src={employee.image} alt={employee.fullName}></img>
             </td>
             <td>{employee.fullName}</td>
@@ -31,4 +37,5 @@ function EmployeeTable(props) {
   );
 }
 
+//Exporting the table
 export default EmployeeTable;
