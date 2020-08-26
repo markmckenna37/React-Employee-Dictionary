@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import Table from "react-bootstrap/Table";
+import {FaSortUp} from "react-icons/fa"
 
 //Component to render our employee table
 function EmployeeTable(props) {
@@ -10,10 +11,10 @@ function EmployeeTable(props) {
       {/* Table headings */}
       <thead>
         <tr>
-          <th>img</th>
+          <th>Picture</th>
           {/* Click events to sort by employee names and roles */}
-          <th onClick={props.sortName}>Name</th>
-          <th onClick={props.sortRole}>Role</th>
+          <th onClick={props.sortName}>Name <FaSortUp/></th>
+          <th onClick={props.sortRole}>Role <FaSortUp/></th>
           <th>Phone Number</th>
           <th>Email Address</th>
         </tr>
